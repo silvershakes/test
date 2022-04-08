@@ -23,6 +23,7 @@ public class Asending_oder_pattern {
 			}
 			System.out.println();
 			star++;
+			System.out.println("for gitbash practise");
 		}
 		
 		
